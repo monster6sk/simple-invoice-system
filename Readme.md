@@ -17,5 +17,8 @@ To provide a decentralized, trustless, and secure platform for issuing and payin
 - Add on-chain dispute resolution mechanisms.
 - Build a front-end dashboard for invoice tracking.
 
+## Contract 
+<img width="1915" height="962" alt="image" src="https://github.com/user-attachments/assets/0b05234f-2999-4215-9bad-2d0f0040e738" />  
+
 ## Contract Address
-`SP123EXAMPLEADDRESS1234567890SIMPLEINVOICE`
+`ST3QEHHJM6ZHC4C979828ZV9RHAXQDEMDANJJHEVD.simple-invoice-system`
